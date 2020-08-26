@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="https://github.com/glunascime/proffy/blob/master/logo.svg">
+    <img alt="Proffy" title="Proffy" src="https://github.com/glunascime/proffy/blob/master/RM/logo.svg">
 </h1>
 
 O que é? 
@@ -7,7 +7,7 @@ O que é?
 
 <br>
 <p align="center">
-  <img alt="Proffy" src="https://github.com/glunascime/proffy/blob/master/proffy.png" width="100%">
+  <img alt="Proffy" src="https://github.com/glunascime/proffy/blob/master/RM/proffy.png" width="100%">
 </p>
 
 Tecnologias utilizadas:
