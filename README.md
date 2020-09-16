@@ -17,7 +17,7 @@ Tecnologias utilizadas:
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
 Layout:
-- A partir [desse link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web), é possivel vizualizar o layout. Não se esqueça de logar na sua conta Figma.
+- A partir [desse link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web), é possivel visualizar o layout. Não se esqueça de logar na sua conta Figma.
 
 Execução:
 ```bash
